@@ -45,7 +45,7 @@ task_manager/ <br>
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-manager-console-app.git
+   git clone https://github.com/h-huzaifa/task-manager-console-app.git
    cd task-manager-console-app
 
 ## Usage
